@@ -15,4 +15,3 @@ Comparision between the two sets:
 
 ![tsne2](https://user-images.githubusercontent.com/56476887/104090775-fe518d80-529e-11eb-9ef9-18b7c5489d3f.png)
 
-Buttercup is another flower which is yellow (so is expected to be slightly related to sunflower), applying tsne on Bluebell, buttercup and Sunflower
